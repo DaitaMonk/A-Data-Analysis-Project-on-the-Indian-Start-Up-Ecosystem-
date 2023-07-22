@@ -5,6 +5,9 @@ The Indian start-up ecosystem has witnessed remarkable growth and gained signifi
 ## OBJECTIVE
 The objective includes evaluating and leveraging the thriving indian startup ecosystem and the impact of funding on start-up success, identifying sectors attracting the most investment, and providing actionable insights for stakeholders. The analysis will focus on the distribution of funding amounts reached.The goal of this analysis is to determine the most effective approach for investment,find patterns in the data by using analytical or statistical techniques to look at the performance on funding and also aims to empower stakeholders with knowledge and insights to navigate the Indian start-up ecosystem effectively.
 
+## Data 
+The dataset to be analyzed is 2018 t0 2021 Indian Start-up dataset
+
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
